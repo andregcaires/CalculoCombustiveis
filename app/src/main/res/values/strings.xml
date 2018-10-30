@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alcool Ou Gasolina</string>
+    <string name="logo_desc">Imagem Logo</string>
+    <string name="app_desc">Saiba a melhor opção para o abastecimento do seu carro</string>
+    <string name="alcool_hint">Preço Álcool ex: 1.90</string>
+    <string name="gas_hint">Preço Gasolina ex: 2.90</string>
+    <string name="btn_calc">Calcular</string>
+    <string name="lbl_result">Resultado</string>
+</resources>
